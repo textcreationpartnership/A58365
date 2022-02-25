@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dovvnfall of Babilon: or The mistery of iniquity opened Wherein is declared the grounds and reasons of our departing from Rome, and that we had just cause to separate from her, and that in departing from her, we have not departed from the Church of Christ, but returned to it; also that to heare a false and unlawfull minister in the execution of his office, is unlawfull, and a breach of every one of the ten Commandements. BY S. R.</title>
+            <author>S. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58365</idno>
+            <idno type="STC">Wing R70AA</idno>
+            <idno type="STC">ESTC R219654</idno>
+            <idno type="EEBO-CITATION">99831108</idno>
+            <idno type="PROQUEST">99831108</idno>
+            <idno type="VID">35570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35570)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dovvnfall of Babilon: or The mistery of iniquity opened Wherein is declared the grounds and reasons of our departing from Rome, and that we had just cause to separate from her, and that in departing from her, we have not departed from the Church of Christ, but returned to it; also that to heare a false and unlawfull minister in the execution of his office, is unlawfull, and a breach of every one of the ten Commandements. BY S. R.</title>
+                  <author>S. R.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Caption title on p. 1 reads: The reasons of the saints departing out of Babylon.</note>
+                  <note>Errata on p. 26.</note>
+                  <note>Copy catalogued imperfect: title page is cropped at foot with partial loss of imprint; publication date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:35570:1"/>
+THE DOVVNFALL OF BABILON: OR The miſtery of Iniqutiy opened.</p>
+            <p>Wherein is declared the grounds and reaſons of our departing from <hi>Rome,</hi> and that we had juſt cauſe to ſeparate from her, and that in depar<g ref="char:EOLhyphen"/>ting from her, we have not departed from the Church of Chriſt, but returned to it; alſo that to heare a falſe and unlawfull Miniſter in the Execution of his Office, is unlawfull, and a breach of every one of the ten Commandements.</p>
+            <q>
+               <bibl>Rev. 18. 4.</bibl> 
+               <hi>And I heard another voice from Heaven, ſaying, come out of her my people that ye be not partakers of her ſinnes, and that ye receive not of her Plagues.</hi>
+            </q>
+            <q>
+               <bibl>2 Cor. 6. 17. 18.</bibl> 
+               <hi>Come out from amongſt them, and be ye ſeparated ſaith the Lord, and touch no uncleane thing, and I will receive you, &amp;c.</hi>
+            </q>
+            <q>
+               <bibl>2 Cor. 6. 16.</bibl> 
+               <hi>What agreement hath the Temple of God with Idolls.</hi>
+            </q>
+            <q>
+               <bibl>1 Iohn 5. 21.</bibl> 
+               <hi>Babes keepe your ſelves from Idolls.</hi>
+            </q>
+            <q>
+               <bibl>Hoſea 4. 17.</bibl> 
+               <hi>Ephraime is joyned to Idolls, let him alone.</hi>
+            </q>
+            <q>
+               <bibl>Jer. 15. 19.</bibl> 
+               <hi>If thou wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take forth the pretious from the vile, thou ſhalt be be a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my mouth: let them returne unto thee, but returne not thou unto them.</hi>
+            </q>
+            <p>BY S. R.</p>
+            <p>
+               <hi>LONDON</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35570:2"/>
+            <pb facs="tcp:35570:2"/>
+            <head>To the impartiall Reader.</head>
+            <opener>
+               <salute>Courteous Reader.</salute>
+            </opener>
+            <p>THE ſum and ſubſtance of this Treatiſe, tends to prove a neceſſity of diſclaiming of the miniſtery of <hi>Rome,</hi> according to the Statutes of <hi>Eiz.</hi> 27. 1 &amp;. 2. the words of the Statute are theſe; it ſhall not be lawfull for any Seminary Prieſt, or eccleſiaſticall perſon whatſoever, made or ordained without or within any of her Majeſties Dominions by any authority delivered, chalenged, or pre<g ref="char:EOLhyphen"/>tended from the Sea of Roome, by or of what uſe, name, or degree ſoever the ſame ſhall be called, or knowne to be, or remaine in any part of her highneſſe Dominions, and every perſon ſo offending, ſhall be judged a traytor, and ſhall ſuffer as in cauſe of high Treaſon, and every perſon that ſhall wittingly and willingly receive, relieve, comfort, ayde, and maintaine any ſuch Prieſt, or eccleſiaſticall per<g ref="char:EOLhyphen"/>ſon ſhall be adjudged a fellon without benifit of Clergy, and ſuffer death, loſe and forfet as in caſe of fellony.</p>
+            <p>So that it appeares that ſuch as owne the Pope to be a true Mini<g ref="char:EOLhyphen"/>ſter, and retaine any ordination, delivered from him are guilty of Treaſon, and ſuch as receive and maintaine them are guilty of fellony and Treaſon, and that the Miniſtery of <hi>England,</hi> is derived eſ<g ref="char:EOLhyphen"/>centially from the Pope; ſee <hi>Francis Maſon</hi> of conſecration pub<g ref="char:EOLhyphen"/>liſhed by Authority 1614. and Yates moddell of Divinity, pag. 157. printed 1622. ſo Dr. <hi>Crammer</hi> was ordained a Prieſt and Biſhop by the ſaid Popes authority, and others received it from him, unto which aforeſaid Statute our nationall Covenant doth well agree, and require this Nation to uſe all meanes according to the word of God, and their place and calling to extirpate the ſaid Popes Prieſt<g ref="char:EOLhyphen"/>hood, and the words of the Covenant are; that we ſhall in like manner without reſpect of perſons, endeavour the extirpation of
+<pb facs="tcp:35570:3"/>
+Popery, Prelacy, and all other eccleſiaſticall Officers depending on that hierarchy, in which number are all the Biſhops, Miniſters by what names or titles ſoever they are called, or however reformed; and therefore unleſſe this Kingdome uſe meanes and extirpate them, they are all forſworne, and therefore marveile not if we write and ſpeake againſt them: who owne the Pope to be a true Miniſter of Chriſt, and derive their Authority from him and ſo worſhip the Beaſt. <hi>Rev.</hi> 15. 9, 10, 11.</p>
+            <p>Alſo that not onely the ſaid Statutes and our late Covenant doth inforce and warrant our ſeparation from the aforeſaid Miniſtery; but alſo the word of the Lord doth require and approve of this our de<g ref="char:EOLhyphen"/>parture from them, this is the old way; <hi>for in the begining God ſepa<g ref="char:EOLhyphen"/>rated the light from the darkneſſe, Gen.</hi> 1. 4. for what Communion hath light with darkneſſe, 2 <hi>Cor.</hi> 6. 14. true beleevers are the light, but now ye are light in the Lord. <hi>Epheſ.</hi> 5. 8. by darkneſſe is meant un<g ref="char:EOLhyphen"/>beleevers; ſo the Iſraleites were to be ſeparated from the wicked. <hi>Numb.</hi> 16, 21. to depart out of <hi>Babilon, Eſa.</hi> 52. 11. and the wicked hate the godly ſcatter, perſecute, and put them to death, the great flock tirannize over the leſſer on <hi>Luke</hi> 12. 32. but the ſheep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither will nor can perſecute the wolves, but the wolves both can and will perſecute the Lambes of Chriſt; many are deſirous to know the grounds and reaſons of our departing from the Miniſtery, no doubt ſome of them deſire to ſee the Truth, and to receive it; however as we judge our ſeparation to be juſt and neceſſary, and have done it upon mature and ſerious conſideration, ſo we have no cauſe to be a<g ref="char:EOLhyphen"/>ſhamed of what we have done: Therefore I have here declared the cauſes and grounds of our practice, they appeare to us unanſwerable by the word of God, and though I know more may be ſaid for to warrant our practiſe; yet I judge what is here ſaid, ſufficient for ſuch as ſeeke the Truth in the love of it; for our parts we have in conſcience to Gods Command, done what we have done, herein many of the Saints of God have been ſtripped of all outward comforts with life it ſelfe, for witneſſing to this his Truth, ſo that we may ſay to God, it is for thee and for thy ſake that we beare the blame men caſt upon us, for doing what we have done: what eaſe or pleaſure think ye it can be to us to ſwim againſt the ſtreame, to be deprived of our names, Eſtates, Liberties, and lives, what plea<g ref="char:EOLhyphen"/>ſure is it to the fleſh to be ſtript of all theſe things, what get we from men but reproaches, and perſecutions; we have no incourage<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:35570:3"/>
+from the world, and had we as little from God and his word, we were of all men moſt miſerable: yet are we happy becauſe we are one with Chriſt, and our lives is hid with Chriſt in God; we have that Spirit which aſſiſted the Saints of old which will not leave us in our temptations, he who hath ſaid he will never leave us nor forſake us, eſteemes us as the apple of his eye, we enjoy all the ſweet promiſes of ſtrength and comfort; ſo that we cannot be miſerable, if the world do their worſt, the worſt they can do can but make us partakers of the afflictions of the Goſpel, which is our glory, we are reſolved what ever can come not to returne to <hi>Babylon, Egypt,</hi> and <hi>Sodom</hi> more; we are a kin to thoſe ſpoken of <hi>Heb.</hi> 11. and as we ought, ſo we expect the like aſſiſtance from God, they had when he ſhall pleaſe to give our enemies leave to try our patience: therefore we have departed from them that ſubmit not to the doctrine of Chriſt, but prophane the things of God, and commit Idolatry, we have left that Church which is the mother of the dead, and choſe the mother of the living, we have left that Church which conſiſts of ſtones, and walles, painted Cullers and Beaſts, <hi>Rev.</hi> 18. 2. that fol<g ref="char:EOLhyphen"/>low errour and Antichriſt &amp; are come to them that follow Chriſt, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his truth, we have left them that would intrude upon us intollerable burdens with tyranny, that aſſume to themſelves more then <hi>Paul</hi> e<g ref="char:EOLhyphen"/>ver did to have dominion over our faith, and would force us to beleeve that which Gods word requires not, and we are come to them who are free men, who injoye the liberty of the Sonns of God, where we are free from all the Taskemaſters of <hi>Egypt,</hi> and have liberty to witneſſe to the Truth, and oppoſe all errour with<g ref="char:EOLhyphen"/>out danger or feare, we have left them that ſought to keepe us, and draw us from the ſimplicity of the Goſpel, and are come to them who have imbraced the Faith of Chriſt, and keepe his Ordinances pure, we have left them that ſought to deſtroy us in our names, E<g ref="char:EOLhyphen"/>ſtates, Liberties, and lives for our indeavouring to informe and re<g ref="char:EOLhyphen"/>claime them from their Idolatry; ſo that they refuſe to be healed, &amp; do live in ſuch things as themſelves confes are evill, alſo that we have found that our ſtaying with them did obſcure and hinder the truth, and ſettle them in their lees: Surely none will marveile at our depar<g ref="char:EOLhyphen"/>ture from them, if they conſider that we have more cauſe then <hi>Paul</hi> had to depart from the Jewes, <hi>Acts</hi> 13, 46. we judged it our duty to repaire to that Church which was moſt apoſtolicall, moſt agree<g ref="char:EOLhyphen"/>able to the word, where we might have liberty to live according to
+<pb facs="tcp:35570:4"/>
+Gods word, do moſt good, and injoy the liberty and freedome of conſcience, ſo that upon conſideration it will appeare thus, our de<g ref="char:EOLhyphen"/>parture from them is not to be diſallowed but commended, the uni<g ref="char:EOLhyphen"/>ty of Idolaters with the Pope, and what is his, we have broke and imbraced the unity of the ſpirit, and the fellowſhip of the Saints, &amp;c. and ſeeing a vile perſon is contemned in the eyes of the righte<g ref="char:EOLhyphen"/>ous how can he go to them to be taught, <hi>Pſal.</hi> 15. 4. and 141. 4. can the godly ſet themſelves againſt the wicked and yet go to them to be taught, and joyne with them as brethren in the Sacrament, <hi>Prev.</hi> 28. 4. and as I may not offer mine off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring when I remember <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brother hath ought againſt me, <hi>Mat.</hi> 5. 23. and 9. 13. much leſſe may partake in another mans offering when I have ought againſt him, <hi>Mat.</hi> 18. 15. in this enſuing Treatiſe, I have as in the preſence of God declared what I beleeve is the truth, namely that the Popes Prieſt<g ref="char:EOLhyphen"/>hood is to be removed, and the high places demoliſhed, but it be<g ref="char:EOLhyphen"/>longeth onely to the civill Magiſtrate to do it, it is our duty to ſpeak againſt theſe things, and to depart from them, (I meddle not what men are in their perſons, but what they are in Reference to the Ex<g ref="char:EOLhyphen"/>ecution of their unlawfull Offices of Prieſthood) and if the Magiſtrate will not do it, it is not our faults: ſearch the Scriptures whether the things be ſo or no, and the Lord give thee underſtanding in all things, and power to do his will, to his glory, and thy comfort Amen. Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35570:4"/>
+            <head>THE REASONS OF THE SAINTS Departing out of BABYLON.</head>
+            <p>AND the Angel cried mightily with a ſtrong voice, come out of her my people, &amp;c. <hi>Rev.</hi> 18. 4. this <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> is to be underſtood ſpiritually for <hi>Sodom</hi> and <hi>Egypt, Rev.</hi> 11. 8. and 17 5. and as they went cleane out from the ſhaddow, as appeares <hi>Gen. 13. 1. Eſa. 52. 11. Ier.</hi> 51. 6 45. So ſhould all that are the Lords come out of <hi>Babylon, So<g ref="char:EOLhyphen"/>dom, Egypt,</hi> ſpiritually, it being the ſubſtance, Gods Command is to every one, every man flye, <hi>Eſa.</hi> 52. 8.</p>
+            <p>
+               <hi>Obj.</hi> This is ment of <hi>Rome</hi> locally from which Countrey they were to come out, becauſe of the Judgements and Plagues that were to come upon them?</p>
+            <p>
+               <hi>Anſw.</hi> You grant more then I affirme; for,</p>
+            <p n="1">1. If they were to come out of the Country, then much more from their worſhip rules, it be lawfull to do that out of <hi>Rome,</hi> which is forbidden in <hi>Rome, Rome</hi> in her latitude recheth as farre as her power and juriſdiction, which is as farre as the power of the Beaſt reacheth, and how farre that is, ſee <hi>Rev.</hi> 17. 24. 7. 15, 16, 17. with 18. 3. which is as farre as the power of the ten Kings reacheth.</p>
+            <pb facs="tcp:35570:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:35570:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="2" facs="tcp:35570:6"/>
+And all thoſe have not forſaken <hi>Rome,</hi> that retaine any thing of hers, what the matter of the falſe ſtate is you may ſee <hi>Rev.</hi> 18. 2. with 21. 8. ſhe conſtitutes her Church by houſes in the boundes of the pariſh, by which all ſorts of prophane are made members, ſo that if the Divell dwell in the pariſh, they will make him a member of their Church, ſo do her daughter, <hi>Pſal.</hi> 137. 8. and do not ſome make all <hi>England</hi> a Church, and ſo farre as <hi>England</hi> agrees with <hi>Rome</hi> in her conſtitution, matter, Lawes, Ordinances, Cerimonies, Offices, Officers, Ordination, Doctrine, Government, ſo according<g ref="char:EOLhyphen"/>ly do more or leſſe partake of her, and is in ſubſtance one and the ſame, and if I muſt come out of the falſe ſtate, then muſt I come fro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their worſhip and Officers, and if I may ſtay with them, why not alſo with the aſſembly, and if with both, how ſhall I obay Gods Command; <hi>Rev. 18. 4. 2 Cor.</hi> 6. 17. &amp;c. and ſeeing God hath called me forth, I dare not appeare there againe with my perſon all pre<g ref="char:EOLhyphen"/>ſence,</p>
+            <p n="2">2. It cannot be ment of the Country, becauſe the Command is generally to all Gods people, and therefore is not to be confi<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> to thoſe who dwell in the Country of <hi>Roome</hi> locally, 2 <hi>Cor.</hi> 6. 17.</p>
+            <p n="3">3. Theſe words were ſpoken to the <hi>Corinthians</hi> that beleeved, 2 <hi>Cor.</hi> 6. 17. and <hi>Corinth</hi> ſtandes not in <hi>Roome</hi> locally but is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from it.</p>
+            <p n="4">4. If it were to be underſtood of <hi>Roome</hi> locally, then ſuch as be<g ref="char:EOLhyphen"/>leeve might not dwell there though they ſhould worſhip God pure<g ref="char:EOLhyphen"/>ly, nor may any beleever goe into tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country upon any lawfull occaſion, which were unreaſonable to affirme, <hi>Rev.</hi> 2. 13.</p>
+            <p n="5">5. Becauſe ſuch a diſtinction of Nations is now diſſolved; ſo that in every Nation he that feareth God, and worketh righteouſneſſe ſhall be accepted of him, Rome is a part of a Nation, and therefore this were not ſo if none may dwell there.</p>
+            <p n="6">6. Chriſt commends his Servants for keeping the Faith where Satans ſeate is, <hi>Rev.</hi> 2. 13. and that is in <hi>Roome</hi> as well as other Countries, and therefore they ſinned not in dwelling there.</p>
+            <p n="7">7. If they were to leave the Country becauſe of thoſe plagues, they neede not to be marked in their foreheads to eſcape the Judge<g ref="char:EOLhyphen"/>ments they being out of the Country, &amp;c- <hi>Reu. 7. 3. Ezek.</hi> 9. 4. God ſaves his in the midſt of Judgements, as <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph.</hi> 3. 12.</p>
+            <p n="8">8. If they were to leave the Land, becauſe of their ſinnes, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the ſame reaſon if the ſame ſinns be found in other places, we m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:35570:6"/>
+leave them alſo, and ſeeing all Nations have drunke deeply of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cupp of her fornication as appeares <hi>Rev.</hi> 18. 3. and ſo we muſt go out of the world, therefore <hi>Babylon</hi> is not confined within her walles, but it comprehends all her Merchants that trade for her and vende her Commodities, and all that ſymbolize with her.</p>
+            <p>So we are commanded to come with me from <hi>Lebanon</hi> my Spouſe: looke from the top of <hi>Amana,</hi> from the top of <hi>Shiner,</hi> and <hi>Hermon,</hi> from the <hi>Lyons</hi> Denns, from the mountaines of the <hi>Leopards,</hi> Song 4. 8. compared with <hi>Judge 3. 3. Eſa. 2. 29. 17. Song 3. 9. 2 Kings</hi> 14. 9. &amp; 4. 12. <hi>Deut.</hi> 3. 9. 11, 12, 13. it was a type of the Cage, <hi>Rev.</hi> 18. 2. 3.</p>
+            <p>2. The Saints are commanded to ſeparate from ſtrangers <hi>Judge 19. 12. Nehe.</hi> 9. 2. by a ſtranger is ment one of another Nation, <hi>Mat.</hi> 17. 25. So by a ſtrange woman is ment, one that is not a mans own wife, <hi>Prov.</hi> 5. 3. 20. and 7. 5. ſo other Officers and Miniſtery that is not Chriſts, and ſo not our own, 2 <hi>Cor.</hi> 11. 14. 15. are ſtrangers to us and ſuch as are under a ſtrange Government, Office, and entrance, and meanes of worſhip, and unheard of in Gods word, and contrary un<g ref="char:EOLhyphen"/>to it; and therefore we may not heare them when they execute their ſtrange Offices, and Chriſt commends his, that they will not heare nor follow a ſtranger, <hi>Iohn</hi> 10. 5. and how hearing is to be un<g ref="char:EOLhyphen"/>derſtood, ſee <hi>Iohn</hi> 10. 5. with <hi>Mat.</hi> 17. 25. and 5. 10. heare and un<g ref="char:EOLhyphen"/>derſtand, and how following is to be underſtood, compare <hi>Iohn</hi> 10. 5. with <hi>Mat.</hi> 4. 22. 25. <hi>Iohn</hi> 1. 37. 38. 40. drinke water out of thine own Seſterne, and not a ſtrangers, with the <hi>Prov.</hi> 5. 15. 17. the contrary God doth ſharply reprove, <hi>Jer. 2. 18. 19. 36. Lev. 22. 25. Ezek.</hi> 44. 7. 9. Therefore to heare an unlawfull Miniſter in the execution of their Office, is to imbrace the boſome of a ſtranger, and to commit Idola<g ref="char:EOLhyphen"/>try with it, is ſpirituall adultery and contrary to 2 <hi>Cor. 11. 2. Epheſ.</hi> 4. 11. to 15.</p>
+            <p>3. We are commanded to ſeparate and ſave our ſelves from a fre<g ref="char:EOLhyphen"/>ward Generation, as <hi>Acts</hi> 2. 40. we eſteeme thoſe to be froward that cannot be ſpoken unto without perill, and when men are uſed to heale them that are ſo farre from being healed, that they are more hardened in their ſinne, <hi>Jer.</hi> 51. 9. yea, and that are ſo froward that they cannot be ſatisfied untill they have perſecuted thoſe that would heale her, and alſo perſecute them that walke in the truth, although they meddle not with her, we do not reade in the word of God, that the Sheepe of Chriſt did ever perſecute the wolves, nor that the
+<pb n="4" facs="tcp:35570:7"/>
+perſecuting Church, was the Church of Chriſt, but they were the Church of Chriſt who were perſecuted, <hi>Mat. 5. 10. 11. 12. 2 Tim.</hi> 2. 12. and 3. 12. Gods Command compells us to leave them, ſo that we have not ſeparated our ſelves as they accuſe us, but God hath ſe<g ref="char:EOLhyphen"/>parated us.</p>
+            <p>4. We are commanded to avoide ſuch as cauſe diviſions and of<g ref="char:EOLhyphen"/>fences contrary to the Doctrine we have heard and learnt, <hi>Rom.</hi> 16. 17. and ſeeing we are to withdraw from a brother that walkes diſor<g ref="char:EOLhyphen"/>derly and not according to the rule of Chriſt, then much more muſt we withdraw from thoſe who are no brethren; for if we may <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with any, then with our Brethren.</p>
+            <p>5. We are commanded that thoſe that refuſe to heare the Church ſhould be unto us as Heathens, and Publicans, <hi>Mat.</hi> 18. 17. they are ſo farre from hearing the Church of Chriſt, that they deſpiſe her, ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> denye her to be the Church of Chriſt, and their practice declares they will not have Chriſt in his government to rule over them, and ſuch Chriſt calles his enemies, <hi>Luke 19. 14. Pſal.</hi> 2. and for any to affirme that the people of God, the Saints and Church of Chriſt ſhould go to Heathens, Publicans, and the enemies of Chriſt to be taught, it ſtrange Doctrine, and to as good purpoſe as for the Sheepe of Chriſt to go to wolves for inſtruction, which were like to be their diſtru<g ref="char:EOLhyphen"/>ction, alſo they reject the Councell of God themſelves, as <hi>Act<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 7. 30.</p>
+            <p>6. We are commanded not to heare ſuch Teachers; <hi>Ceaſe my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onne to heare the inſtruction that cauſeth to err from the words of know<g ref="char:EOLhyphen"/>ledge, Prov.</hi> 9. 27. they teach Doctrines contrary to the practice of the Saints, recorded and commended to us in Gods word, they teach that beleevers are not to be ſeparated from the world, but ought to continue together in fellowſhip with them, contrary to 2 <hi>Cor.</hi> 6. and they teach Infants are to be baptiſed: concerning which the Scrip<g ref="char:EOLhyphen"/>ture is ſilent, and many ſuch Doctrins they teach, with which our mindes and conſcience might be defiled if we did heare them, and although they teach many truthes, yet ſeeing they teach hereſies, al<g ref="char:EOLhyphen"/>ſo we muſt avoide them, <hi>Titus. 3. 10. Zach. 13. 3. 2 Epiſt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 9. 10.</p>
+            <p>Conſider 1 <hi>Tim. 6. 3, 4, 5. Gal. 1. 7, 8, 9. 2 Epiſ. Iohn</hi> 10. 11.</p>
+            <p>7. We are commanded to heare what the ſpirit ſaith unto the Churches, <hi>Rev.</hi> 2. 13. and this we cannot do, unleſſe we be there to heare it.</p>
+            <p>
+               <pb n="5" facs="tcp:35570:7"/>
+8. God hath commanded his people to go to <hi>Sion,</hi> compare <hi>Deut.</hi> 12. 5. 6. 11. and with <hi>Jer.</hi> 50. 5. and 51. 9. and 2. God hath ſaid gather my Saints together to me, <hi>Pſal.</hi> 50. 1. 5. then it is not his will that they be ſcattered in falſe Churches.</p>
+            <p>The Lord hath choſen <hi>Sion,</hi> ſo muſt I, he hath deſired it for his habitation, ſo do I, this is my reſt for ever here will I dwell, ſo ſay I, <hi>Pſal.</hi> 132. 13. 14.</p>
+            <p>The Lord is there, <hi>Ezek.</hi> 48. 35. 2 <hi>Cor.</hi> 6. 16. Chriſt is there, and it is his will that his be with him, Father I will that they which thou haſt given me be with mee where I am, &amp;c. <hi>Iohn</hi> 17. 24. here, and hereafter Chriſt tells his, that he is gone downe into his Garden, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 5. 1. with 6. 1. 2. 11. and 4. 16. and that there he will ſtay and dwell, <hi>Song.</hi> 8. 13. conſider 2 <hi>Sam.</hi> 15. 21. there was a day when the Sonnes of God came to preſent themſelves before the Lord, <hi>Iob.</hi> 2. 1.</p>
+            <p>Alſo the Saints love to <hi>Sion</hi> cauſeth them to go thither, I was glad when they ſaid unto me, <hi>come let us go to the Houſe of the Lord, Pſal. 122. 1, 2. 3. Mica. 4. 1. 2. Eſa. 22. 3. then not glad to goe to Babylon.</hi>
+            </p>
+            <p>9. We are commanded to let them returne to us, but we may not returne to them. <hi>Jer.</hi> 15. 19. we muſt owne them, and walke with them that are the Lords, and owne the truth, elſe how do we profe the Goſpel, <hi>Mat.</hi> 10. 11. &amp;c.</p>
+            <p>10. We are co<g ref="char:cmbAbbrStroke">̄</g>manded to ſtand faſt in the Liberty with which Chriſt hath made us free, <hi>Gal.</hi> 5. 1. Chriſt purchaſed our deliverance out of <hi>Egypt</hi> ſpirituall, <hi>Rev.</hi> 11. 8. therefore we may not returne thither a<g ref="char:EOLhyphen"/>gaine, no not ſo much as looke back, <hi>Gen.</hi> 19. 17. 26. with <hi>Rev.</hi> 11. 8. what Chriſt hath purchaſed for his people it is their priviledge to injoy, and knew we the worth of it, we would prize the leſt part of it, and be thankfull for it, and dye before we would with part any part of it.</p>
+            <p>11. We are commanded to let them alone who have joyned them<g ref="char:EOLhyphen"/>ſelves to Idolls, and mixed themſelves among the people <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</hi> 7. 8. and 4. 17. they have joyned themſelves to an oſis of miniſtery to a Church, and Ordinances that are not Chriſts, but onely Images and ſimilitudes of his, but not his, and therefore their miniſtery, Church, and ordinances are all Idolls, and we are commanded to keepe our ſelves from Idolls, 1 <hi>Iohn</hi> 5. 21. God calles ſuch Idoll
+<pb n="6" facs="tcp:35570:8"/>
+Sheapards that go for true and ſupply their place, but are not ſuch Iodlls, <hi>Zack.</hi> 11. 17.</p>
+            <p>12. We are commanded not to be like Idolaters, <hi>Lev. 18. 3. 4. Deut.</hi> 12. 30. 31. the Lord complaines ſaying, you have made your Prieſts after the manner of the Nations of other Landes, 2 <hi>Chron.</hi> 13. 9. 10. The Lord hates all the monuments of Idolatry, but Antichriſts Prieſthood and Temples are principle parts of the Idolaters wor<g ref="char:EOLhyphen"/>ſhip, and are ſome of the Divells Antichriſt worſhips; <hi>that they ſhould not worſhip Divells and Idolls. Rev</hi> 9. 20.</p>
+            <p>We dare not heare theſe Prieſts, becauſe their Prieſthood is from the Pope and his Biſhops (made by him and this themſelves con<g ref="char:EOLhyphen"/>feſſe) we denye not that we are Miniſters by <hi>Rome,</hi> and that they may as truly be inſtruments of our miniſtery as of our baptiſme, ſee Yates Moddel of Divinity pag. 25. and ſo they are the Image of the Beaſt.</p>
+            <p>Now an Image is nothing elſe but a certaine figure, having relati<g ref="char:EOLhyphen"/>on to the example; ſo this Prieſthood is a figure, and hath relation to the Popiſh Prieſthood, if it were not the very ſame, and as the nature of an Image is to repreſent and to put us in minde, ſo this Prieſthood repreſents to us the Popiſh Prieſthood, and ſo puts us in minde of the beaſt, Antichriſt which is not a particular perſon, but is miſtically the whole body, <hi>viz.</hi> from the Pope to the pariter, and all that belongs to her, and as a beaſt conſiſts in all the parts of her body, ſo here the Dragon is the head, the reſt of this beaſt conſiſts of the Prieſts and layity, and this Prieſthood is a great part of the Beaſt, as 1. this is the mouth of the Beaſt, and this is the mouth that is given to the Beaſt, by which ſhe prophiſieth and is called the falſe Prophet, under which is included all the falſe Prophets of <hi>Antichriſts</hi> Kingdome, Arch-Biſhops, Biſhops, full Prieſts, halfe Prieſts, and this Prieſthood is ſcattered almoſt in all places, and ſo is ever at hand to ſpeake for the Beaſt, <hi>viz.</hi> the falſe Church; by this mouth God is blaſpheemed and his temple, and them that worſhip in it, <hi>Rev.</hi> 11. 1. this mouth calles cuſtomers to <hi>Antichrists</hi> warehouſe, and ſhewes her Commodities, extolls her Marchantdiſe, and vends her wares at two deare a rate.</p>
+            <p>Alſo this Prieſthood is the leggs of the Beaſt, which beares <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and carries the Beaſt, neither can the Beaſt go without them, and where this Prieſthood leaves her, ſhe can go no further, but falles to
+<pb n="7" facs="tcp:35570:8"/>
+the ground, and all that paſſe by may trample upon her, alſo this Prieſthood is the taile of the Beaſt, the taile you know is, that which covereth the filthy part, ſo doth this Prieſthood cover the filthy part of <hi>Antichriſt,</hi> who is called a Beaſt, becauſe of her filthineſſe and uncleaneneſſe, ſhe being a moſt abominable whore, and is defiled with Idolatry, which is the greateſt whordome and uncleanneſſe that is, ſo that every thing that belongs to this beaſt is uncleane, unſanctified, unholy, and prophane order of Prieſthood, and this taile covereth all the filthineſſe and abominations of the whore, with cleane and pure ends, holy and pure names, and forſooth, ſhe calles the Divells and Popes prophane Prieſthood, Gods Miniſters conſecrated, a holy order of miniſtery, Divines, &amp;c. and thus ſhe covers all over with ſpecious titles, all her Idolatry and whordomes muſt be no leſſe then Gods Ordinances, and the pure worſhip of God; by no meanes ſhe will not indure they ſhould be called Idolls, Idolatry, their right name, and thus all is covered by the taile of the Beaſt, and they are the head of the Beaſt; for they muſt rule and maſter all, and what is left more of the Beaſt, but the body which is the multitude: the place where you may ſee this Beaſt is the Cage, <hi>Rev.</hi> 18. 2. and the mouth of the Beaſt is her Commands, licenſe, and authority; ſhut the mouth of this Beaſt and ſhe will decay, and take away the leggs of this Beaſt, and ſhe falles, and can riſe no more; let them ceaſe to do the Offices of a taile to her, and her filthineſſe will ſoone be diſcovered, and ſhe ſhall be abhorred by all that ſee the Myſtery of her iniquity, yea ſhe ſhall deceive the Nations no more.</p>
+            <p>Theſe Offices of Prieſthood keepes out Chriſt and a ſpeciall bleſ<g ref="char:EOLhyphen"/>ſing with him, and in part, ſhuts out the Kingdome of God, theſe Prieſts have power and authority originally from the Dragon, fun<g ref="char:EOLhyphen"/>tioned and aſſociated with him and his, and is from hell <hi>Rev.</hi> 9. 2. 3. yet they are neither afrayd nor aſhamed to ſay they are Chriſts Mi<g ref="char:EOLhyphen"/>niſters, and yet are ſworne Servants to <hi>Antichriſt,</hi> and him they have and do obay, whoſe Servants they are, they ſerve not Chriſt, for no man can ſerve 2. Maſters, they ſay they are Chriſts Servants, and yet obay <hi>Antichriſts</hi> Commandes; weare his livery, count his marke a priviledge and ſeeing it is not fit to alow, no not in the leaſt degree, him that aſſumes a lawfull Office without a lawfull calling as <hi>Heb.</hi> 4. 5. 4. what deteſtation is ſufficient then thinke ye for him, who dare enter and take an Office of <hi>Antichriſt</hi> which is
+<pb n="8" facs="tcp:35570:9"/>
+on purpoſe ſet in oppoſition againſt Jeſus Chriſt, and ſweare allegi<g ref="char:EOLhyphen"/>ance to Chriſts greateſt enemy: oh that they would do as <hi>Moſes</hi> did, refuſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be called that which the Biſhops made them, and fling of his Livery, burne the black box, and ceaſe to do any thing by that power, and come in now at laſt, (though the day be farre ſpent and worke in Gods vinyeard) and kiſſe the Sonne and ſweare allegiance to him, this would be for Gods glory, their honour and comfort; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this were a ſweet thing indeed, and much to be deſired.</p>
+            <p>If it belong to the Lord-Biſhops, &amp;c. to make Miniſters as ſome affirme, then there is no lawfull Miniſter, unl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe he be ſo made by them, and ſo they are driven to make that eſſentiall to a true Mini<g ref="char:EOLhyphen"/>ſter which yet was never appointed by Chriſt, and ſeeing the Pop<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Prieſthood is not any of thoſe Offices Chriſt hath appointed, as ap<g ref="char:EOLhyphen"/>peares <hi>Epheſ.</hi> 4 11. 12. we ought to reject it, and therefore we ought not to be edefied by them in thoſe Offices; for nothing can be pro<g ref="char:EOLhyphen"/>fitable in Religion but what God juſtifieth, and to receive or uſe any other meanes of teaching, beſides Chriſt would imply ſome imper<g ref="char:EOLhyphen"/>fection in Chriſts meanes, and ſo in Chriſt; alſo it were to receive another Teacher beſides Chriſt which were in effect to reject Chriſt; for he will be our onely Teacher (by himſelfe and his meanes) or not at all, and becauſe Chriſts meanes is ſufficient, we neede no other, ſo we d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re not uſe any other; for that were to change Chriſt with want either of power that he could not, or want of will that he would not, or want of wiſdome that he knew not what meanes were beſt, or want of love that he would not afford us meanes e<g ref="char:EOLhyphen"/>nough, or not good enough; this is no leſſe then to change God to be worſer then an Infidell, in not providing for his Family, what they neede, and if God affords meanes ſufficient for his, to what end ſhould we uſe more, alſo I deſire to know. 1. whether any thing can be profitable in Religion that is not appointed by God, ſeeing we have but one Lawgiver as Jam. 4. Jeſus Chriſt; whether to receive a new Miniſtery be not to receive a new Teacher. 3. how the execu<g ref="char:EOLhyphen"/>tion of the Popes Prieſthood can be truly accounted miniſteriall teaching under Chriſt. 4. how we can uſe or acknowledge any re<g ref="char:EOLhyphen"/>ligious teaching with Faith, except it appeare to be appointed by Chriſt. 5. The adminiſtrations and miniſteriall teaching of <hi>Antichriſts</hi> Prieſthood be ſuch good meanes of teaching whether we are not bound in Conſcience to ſubmit to thoſe Offices and Officers, and to thoſe that made them ſuch, becauſe he is greater that ſends, then he
+<pb n="9" facs="tcp:35570:9"/>
+that is ſent <hi>Heb.</hi> 7. 7. for the originall of any good is much more good, and ſeeing this Prieſthood is from Satan, whether we are not inga<g ref="char:EOLhyphen"/>ged to him for all the good we receive by it, this may ſerve him that invented it, but as for God he will not be ſerved by it, ſee <hi>Ez<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</hi> 44. 13. and ſeeing the borrower is ſervant to the lender, we by borrow<g ref="char:EOLhyphen"/>ing any thing of the Divell or Antichriſt, or the whore of <hi>Rome,</hi> in ſo doing become their Servants, <hi>Prov.</hi> 22. 7. 7. ſeeing theſe Miniſters are reputed by themſelves and others to be the Miniſters of Chriſt, and none but ſuch are permitted by Law to preach, and they preach as ſuch, whether my hearing then is not (a ſeeming at leaſt) an aprobation that they are ſuch as they are reputed, and ſee<g ref="char:EOLhyphen"/>ing they preach as Officers as they are together in hearing them, I ſerve not at leaſt to acknowledg that office to be appointed by Chriſt to teach his people, alſo my action of hearing them caſt ſome ſhew of honor (at leaſt) upon ſuch Officers which is to worſhip; for Reverence, honour, and worſhip is the ſame, and ſo I ſecretly confes the originall of i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is to be worſhip<g ref="char:EOLhyphen"/>ped much more; for the cauſe is greater then the effect, alſo in ſaying they are Miniſters of Chriſt in ſo doing I call the Divell Chriſt, whoſe Miniſters they are. 2. ſet Chriſt in the place of Satan, and Satan in Chriſts. 3. that Chriſts ſpirituall or miſticall body is imperfect without them; for if they be Chriſts Miniſters they are a part of his Body, &amp; is not this groſſe Idolatry to a dore Satan inſted of Chriſt; for they are called Miniſters of Chriſt, when they are the Divells, <hi>Rev.</hi> 9. 20. ſo their Idoll, Temples, are called the houſes of God, the Popes Prieſthood, the Miniſters of God, the Divells they are, and if it be intollerable to take a Member of Chriſt, and joyne it to a harlot, is it not as bad or worſe to take a Member of a harlot in a falſe Office to joyne it to Chriſts Body.</p>
+            <p>7. I deſire to know by what Rule, and principle of Religion, we may admit of the Popes Prieſthood, (or Miniſtery that is not Chriſt) if we muſt hate all that belong to a falſe Religion, yea even the gar<g ref="char:EOLhyphen"/>ment ſpotted with the fleſh <hi>Iude</hi> 23. <note place="margin">Harding anſwers in the a<g ref="char:EOLhyphen"/>pologie in Preface Belar<g ref="char:EOLhyphen"/>min up Supra.</note>
+            </p>
+            <p>Our retaining any thing of <hi>Romes</hi> traſh hinders our confeſſion a<g ref="char:EOLhyphen"/>gainſt it, and they judge our retaining of any thing of theirs an apro<g ref="char:EOLhyphen"/>bation of what they do; and confirmes them in their Religion which is a hard thing to confirme them in their Idolatry by the uſe of any thing of theirs, and is it alſo a diſparagement to our Religion as it is a gracing of Popery, the Papiſts cry out and beaſt that we are not a<g ref="char:EOLhyphen"/>ble
+<pb n="10" facs="tcp:35570:10"/>
+to ſerve God without their Prieſthood, Temples, and Ceremo<g ref="char:EOLhyphen"/>nies, <hi>Bellarmin</hi> ſaith, God takes ſuch delight in their Temples, that he takes the charge beſtowed on them in better ſort, then if it were beſtowed in mony upon the poore, and if we may receive their Prieſthood and Temples, and ſprinkling of Infants, will it not follow the reſt of the ſame kinde may be received alſo?</p>
+            <p>Zeale cannot indure the coupling of any thing of Chriſts with the things of <hi>Antichriſt,</hi> becauſe God will have them divided, God will not have any thing come neere him, but what he hath ſanctified, wit<g ref="char:EOLhyphen"/>neſſe <hi>Nadabs</hi> and <hi>Abihus</hi> ſtrange fire, <hi>Lev.</hi> 10. 1. what agreement hath light with darkneſſe, Chriſt with Beliall, &amp;c. 2 <hi>Cor.</hi> 6.</p>
+            <p>Tell me, can Zeale indure that any thing that is the Divells ſhould come neere them, much leſſe the Lord, we ſhould flye from all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the Divells, as we would flye from the Divell himſelfe, what zeale, expreſſe they againſt what is his when they uſe it, in uſe religious <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt honourableſt uſe, and the uſe he appointed for them, how do ſuch avoid them who go to them; did we hate Idolatry, we could not by no meanes be brought to digeſt one dram of it; for all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> belongs to it is alike uncleane, and ſo alike to be hated, it doth vex their Soules who have <hi>Zeale</hi> to ſee the markes and ſignes of Idolatry and Idolls of <hi>Antichrist,</hi> therefore we proteſt all that hath <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhew of Popery, we abhorre, and to the Popes Prieſthood, we <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> depart from us, get ye hence we know you not, <hi>Eſa.</hi> 30. 22. Oh conſi<g ref="char:EOLhyphen"/>der this Prieſthood is invented in oppoſition to Chriſt, and that by his greateſt enemy, ſuch as can beare this, are they not luke-warme, and as a cake halfe baked, <hi>Rev. 3. 16. Hoſ.</hi> 7. 8. beare this and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any thing, and bid <hi>Zeale</hi> farewell for ever.</p>
+            <p>Conſider what names God gives to <hi>Antichriſts</hi> Prieſthood, as lo<g ref="char:EOLhyphen"/>cuſts <hi>Rev.</hi> 8 3. like horſes, their faces like men, teeth like Lyons, tailes like Scorpions; and like Serpents, Froggs, <hi>Rev.</hi> 16, 13. S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſerers, <hi>Rev.</hi> 19. 23. if they have the names of men, then the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of men, and as we would fly from ſuch kind of Creatures, both in body and minde, ſo ſhould we from <hi>Antichriſts</hi> Prieſthood, they have been the profeſſed and ſworne ſlaves of <hi>Antichriſt,</hi> wore his Livery and counted his marke a priviledge.</p>
+            <p>So it hath been their practiſe to ſlight ſome, contemn vilify diſ<g ref="char:EOLhyphen"/>grace and reproach us, calling us ſimple, ignorant, and illiterate and ſeduced people; becauſe we refuſed to aſſent to thoſe things they ſaid without proofe, and when we have gone to them to be infor<g ref="char:EOLhyphen"/>med,
+<pb n="11" facs="tcp:35570:10"/>
+and to informe, they would oft ſay they, are not at leiſure, and that it was our pride to offer to contradict them, to diſpute with them, and that they were willing, yet becauſe we were ignorant, and ſo could not underſtand, nor diſtinguiſh, and ſo conceited and wilfull, that it is to no purpoſe, and when this would not availe then they would make the thing in queſtion, the ground of an accuſation taking it for granted before it were proved, that it is a grievous error when it was the truth, and when they did admit of a diſcourſe, they would ſo continue their ſpeech, ſo that we could not have time to anſwer, or elſe they would fill their diſcourſe with Greek or Latin, Logick, So<g ref="char:EOLhyphen"/>fiſtry, and vaine diſtinctions, and ſave fetcht conſequences, by which meanes they darkened the truth, and hindred their conſci<g ref="char:EOLhyphen"/>ences, and others from receiving the truth, one while they would put <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to prove the negative, and being put to it, they would aske our meaning, and wonder at our ignorance, and in the meane time they would ſtudy a ſhift, and that which made moſt againſt them, they would ſay it made moſt for them, or tell us it was not worth the an<g ref="char:EOLhyphen"/>ſwering; alſo they would draw us from the word of God, to their wiſdome and deſcretion, and carnall reaſon which they knew would prevaile with the others.</p>
+            <p>Alſo we have found it their practice to frequent their Companies who were rich and honourable in the world, and ſerve themſelves in<g ref="char:EOLhyphen"/>to their affections for their own ends.</p>
+            <p>So it is common among them not much to care for the Sheepe, but ſuffered the wolfe to take them; ſo when they have profeſſed their be<g ref="char:EOLhyphen"/>ing cleerly called by God to a people, yet they would leave them for a greater living and profeſſe, they were called thither, and after leave them for a greater, when the firſt was enough, yea we have heard of, that one of them who was not of the worſt amongſt them, ſaid unles he might be ſure of 3. or 4. hundred a yeare, he would not be their Miniſter, whereby they plainly declare they ſerve not the Lord Jeſus, but their owne bellies, and ſell their Sermons, and make a trade of Religion, eſteeming gaine godlineſſe.</p>
+            <p>Alſo how do they ſeeke to hinder the publiſhing of any thing but what come from themſelves, as if the word of God came onely to them.</p>
+            <p>Alſo they are ſo proud that they thinke themſelves wronged, and complaine becauſe we will not heare them preach.</p>
+            <p>14. We have ſeparated from them, becauſe we found thoſe places the
+<pb n="12" facs="tcp:35570:11"/>
+houſes of Bondage, becauſe whatſoever corrupt Doctrine or blaſphe<g ref="char:EOLhyphen"/>mies were taught, we were enjoyned under a great penalty to be ſilent: ſo that we muſt either ſin or ſuffer, and to ſuffer for witneſſing againſt what they teach, when we are forbidden to be there to heare them is not ſafe.</p>
+            <p>To be preſent and ſilent when they taught lies, and ſpake againſt the truth, were to partake of their ſins, breake Gods Command, de<g ref="char:EOLhyphen"/>file our ſoules, hazard our peace, incourage and harden them in their ſinns.</p>
+            <p>For 1. Becauſe it is Gods Command that thoſe who ſin rebuke be<g ref="char:EOLhyphen"/>fore all, 1 <hi>Tim.</hi> 5. 20.</p>
+            <p>2. Becauſe it was the practice of the Saints to do ſo, and that with great zeale as you may ſee <hi>Acts 13. 16. 10. Ezra 9 2, 3, 4. Pſal. 119. 136. 139. Numb.</hi> 25. 11, 12, 13. and have not they more cauſe to be re<g ref="char:EOLhyphen"/>proved, who alleige the word of God to juſtifie errors and lies, and to condemn the way of God, and people of God for walking in it: as we have heard them do.</p>
+            <p>3. God commends it for a vertue in the Church of <hi>Epheſus,</hi> that they could beare with them that are evill, <hi>Rev.</hi> 2. 2. to ſee or heare ſin committed with ſilence is to beare it, and if <hi>Ely</hi> was guilty al<g ref="char:EOLhyphen"/>though he did reprove ſin, becauſe he did not do it zealouſly, as ap<g ref="char:EOLhyphen"/>peares 1 <hi>Sam.</hi> 2. 22, 23, 24, 25. 27 29. and 3. 13. how ſhall they e<g ref="char:EOLhyphen"/>ſcape or be excuſed, who reprove not ſin at all, their ſaying it is not my place, it belongs to the Magiſtrate or the Miniſter or the Officers of the Church, or he is not my brother, I am no Member, theſe ſhifts are too ſhort, ſo that neither love to God, his truth and people, the good of the ſoules of men, nor their own peace, nothing moves them; ſurely ſuch love not the Lord as they ſhould, nor ſo much as the Saints have done; doth a friend love as he ought who heares him wronged and is ſilent, and ſhewes no diſlike; oh offer not this to God.</p>
+            <p>4. We ought to reprove ſin (if we be preſent where ſin is com<g ref="char:EOLhyphen"/>mitted in caſe none elſe reprove it) becauſe God hath appointed it to be a meanes of preventing ſin, ſin being very contagious, 1 <hi>Cor.</hi> 5. 6. therefore he ſaith, them that ſin rebuke before all, that others alſo may feare, 1 <hi>Tim.</hi> 5. 20. and that ye do ſo to all men, great or ſmall friends or enemies, ſpare none, ſo much is implyed in theſe words, I charge thee before God and the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus Chriſt, and the elect An<g ref="char:EOLhyphen"/>gels that thou obſerve theſe things without prefering one before an<g ref="char:EOLhyphen"/>other
+<pb n="13" facs="tcp:35570:11"/>
+doing nothing by partiality, verſe 21. muſt we take care for the Oxe or Aſſe of an enemy as appeares <hi>Exod</hi> 23. 4. 5. then much more for the good of the ſoule of an enemy.</p>
+            <p>5. This was <hi>Iobes</hi> comfort, that nothing could cauſe him to keepe ſilence <hi>Jobe</hi> 31. 34. now if he might have been ſilent when ſin had been committed, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and yet not have ſinned, his not being ſilent could not be any comfort to him at all.</p>
+            <p>6. Becauſe preſence and ſilence, God eſteeme a doing of the action as 1 <hi>Cor.</hi> 11. 4. 5. with 14. 24 every man propheſiing: yet all ſpake not, every woman that prophiſieth &amp;c. that is by conſent, for women are not allowed to ſpeake in the Church.</p>
+            <p>So God chargeth <hi>Ahab</hi> with murder when <hi>Jezebel</hi> did it, and he onely by conſent 1 <hi>Kings</hi> 18 19. compared with 7, 8 9, 10.</p>
+            <p>Silence is conformation, as appeares <hi>Numb.</hi> 30. 14. he confirmeth them becauſe he held his peace when he heard them: ſo it was not enough that they ſhed not blood, but that they did not ſee it <hi>Deut.</hi> 21. 7. therefore God deales with thoſe who were preſent and ſilent, where ſin was committed as if they had done it themſelves, ſee <hi>Lev.</hi> 5. 1. and 20. 4. 5.</p>
+            <p>7. If we reprove not ſin we have fellowſhip with it, <hi>Epheſ. 5. 11. Hag. 2. 13. Rev.</hi> 2. 20. ſee <hi>Ioſua</hi> 22. 18, 9, 20. therefore the Saints are to come out from them, that they might not be partakers of their ſins <hi>Rev. 18. 4. 2 Cor.</hi> 6. I was almoſt in all evill in the midſt of the Con<g ref="char:EOLhyphen"/>gregation and Aſſembly, <hi>Prov.</hi> 5. 14.</p>
+            <p>8. God in deſcribing a good man ſaith of him, he ſtoppeth his cares from hearing of blood, and his eyes from ſeeing of evill, <hi>Eſa.</hi> 33. 15. 16, that is, he cannot by no meanes endure it.</p>
+            <p>Conſider impartially theſe things, and reſolve whether you may heare Gods truth, and people preached againſt, and be ſilent, and not ſin; for my part my conſcience was ſo overpowred with the evill thereof, that if there were no other reaſon againſt hearing the Biſhops Prieſts, then this, I was not able no longer to heare them having often found the moſt eminent amongſt them often condemning the truth and people of God.</p>
+            <p>15. We have ſeparated from them, becauſe God hath made them no promiſe of his preſence and bleſſing, and we are not to expect a<g ref="char:EOLhyphen"/>ny bleſſing where God hath not promiſed it, and ſeeing all the pro<g ref="char:EOLhyphen"/>miſes of Gods preſence bleſſings, and exceptation are made only and peculiarly unto the Church of Chriſts, as in the Law the promiſes were
+<pb n="14" facs="tcp:35570:12"/>
+made to the Tabernacle, Temple, Ark, <hi>Exod. 29 42. 43. Lev. 25. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Exod.</hi> 25. 21. 22. which are to be applyed to the Church of Chriſt under the Goſpel, Mount Sion figured the Church of Chriſt, <hi>Heb.</hi> 12. 21. 22. there will I meete with thee, <hi>Numb.</hi> 17. 4. there I will command my bleſſing upon thee, the Lord will bleſſe thee <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Sion, and abundantly bleſſe her proviſion, <hi>Pſal.</hi> 134. in all place<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where I record my name there, will I come unto thee, and bleſſe thee <hi>Exod.</hi> 20. 24. thou ſhalt put the bleſſing upon Mount <hi>Gazerim,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mount <hi>Sinai, Deut.</hi> 11. 29 and 33. 16. the glory of the Lord abode there, <hi>Exod.</hi> 24. 16. my beloved came into his garden to eat his plea<g ref="char:EOLhyphen"/>ſant fruits, I have gathered my mirrh with my ſpices which is Chriſts acceptation of his Churches ſervices by his graces, and it is called his, becauſe he commanded it, <hi>Song.</hi> 4. 16. and 5. 1.</p>
+            <p>But Mount <hi>Eball</hi> was a type of the falſe Church, and the curſe was there, <hi>Deut.</hi> 11. 9. &amp; 27. 15. 18. 25. <hi>Joſua</hi> 8. 33. 34. what portion have we in falſe Churches or inheritance in the Sonnes of it, to thy tents <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Iſrael,</hi> viz. the Church of Chriſt.</p>
+            <p>The Church of Chriſt is a reſemblance of heaven; therefore it is called heaven, <hi>Rev.</hi> 6. 14. and by the rule of Contraries the falſe Church muſt be hell, and as hell is the habitation of Divells, ſo is the Cage the falſe Church, <hi>Rev.</hi> 18. 2. and as thoſe who are in hell have plagues and torments continually, ſo <hi>they have no reſt day nor night who worſhip the Beaſt,</hi> Rev. 14, 9, 10, 11. <hi>thou didſt debaſe thy ſelfe even unto Hell, Eſa. 57 9. thou kneweſt not that the dead are there, &amp; that her gueſs are in the depth of Hell, Prov.</hi> 9. 18 by the <hi>gates of H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> in <hi>Mat.</hi> 16. 18, is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the power of the falſe Church, and we deſire you would not be angry in that we have no minde to go to Hell.</p>
+            <p>16. We have departed from them becauſe Gods word do not command us to go to falſe Churches to heare unlawfull Miniſters, and God forbids what his word commands not; therefore God much complaineth, that they did that which he commandeth not, ſee <hi>Jer. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 5. &amp; 7. 31. &amp; 32. 32. 35. <hi>Lev. 10. 5. Deut.</hi> 17. 1. &amp; 18. 20. <hi>Mat. 28. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. Marke</hi> 7. 8 9.</p>
+            <p>If we ſuffer our ſelves to be beaten from this hold, we ſhall be taken captive by our enemies the papiſt, tell me, did God ever com<g ref="char:EOLhyphen"/>mend or accept of the doing of that he never commanded, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whe<g ref="char:EOLhyphen"/>ther any thing can be well done that is not commanded to be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay the former, and bring in traditions, grant the latter and bring <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> workes of ſupererogation, monkes, merits, &amp;c. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould we then to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:35570:12"/>
+principle, Mr. <hi>Rob:</hi> ſaith, in a treatiſe for hearing in falſe Churches, it is confeſſed that hearing in falſe Churches is not commanded by Chriſt.</p>
+            <p>17. Becauſe to heare them in the execution of their unlawfull Offices &amp; Church is to uphold them, becauſe if none did heare them, they would not adminiſter, and ſo their Church, State, would be diſſolved: So then the people eſtabliſh them, becauſe perſons to adminiſter unto, is eſ<g ref="char:EOLhyphen"/>ſentiall to adminiſtration, and it is much to be deſired that their Church were diſſolved, becauſe then the Saints would come to Sion, and then Chriſt ſhould have more glory; for the glory of a King con<g ref="char:EOLhyphen"/>ſiſts in the multitude of Subjects; therefore I thus reaſon, if the whole ought not to go, then no part of the whole; for the whole con<g ref="char:EOLhyphen"/>ſiſts of the parts, for every Generall includes all the particulars and although it be granted, that if one part go, the reſt in not going do not diſſolve the Church; yet that part that goeth not doth well, be<g ref="char:EOLhyphen"/>cauſe it hath done its part; alſo it is a meanes to cauſe the other part to do ſo alſo, ſeeing actions ſpeake alſo there not going diſhonoureth &amp; weaken the reſt that go, &amp; ſo much as we uphold the falſe Church, we diſſolve the true, &amp; ſo far are enemies to Chriſt, as we are enemies to his Church; oh conſider this you who are for hearing in falſe Church<g ref="char:EOLhyphen"/>es: I being convinced of the falſeneſſe of the miniſtery and Church of <hi>England,</hi> left hearing them yet conceiving as ſome do, that they might be heard as gifted men, and that hearing was no Communi<g ref="char:EOLhyphen"/>on, &amp;c. I returned to heare them, beleeving, and profeſſing their miniſtery to be falſe and Antichriſtian: yet at my hear<g ref="char:EOLhyphen"/>ing them, the weake were ſtumbled, the ſtrong offended, and ſome of the pariſh gatherings were confirmed in their practice, and pro<g ref="char:EOLhyphen"/>feſſed they liked their Church and Miniſtery the better, becauſe I heard them, and hoped I began to ſee my errour, (as they called it) in denying their Church and Miniſtery, &amp;c, ſo my practice encou<g ref="char:EOLhyphen"/>raged them, and ſo upheld their Church by participation, but when I ſaw my errour and the fruit of it, I was filled with much bitter<g ref="char:EOLhyphen"/>neſſe, griefe &amp; ſorrow, I knew not how to be revenged on my ſelfe, and had not God preſerved me, I had made my ſelfe a terrible ex<g ref="char:EOLhyphen"/>ample to revolters, I wiſh this may be a warning to others to take <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, let him that thinketh he ſtandeth take heede leaſt he f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll from his ſteadfaſtneſſe, as 2. <hi>Pet.</hi> 3. 17. oh conſider, is it a ſmall mat<g ref="char:EOLhyphen"/>ter
+<pb n="16" facs="tcp:35570:13"/>
+to ſin againſt God to looſe peace of conſcience, to incourage and harden others in their ſin, to ſay no more.</p>
+            <p>It ſeemes the Church of <hi>England</hi> &amp; the Popes Prieſthood are ſo mar<g ref="char:EOLhyphen"/>ried together, that they cannot be divourſed, this ſtrange marriage, was figured out, <hi>Neh.</hi> 9. and as <hi>Paul</hi> calles marriage a ſecret Myſte<g ref="char:EOLhyphen"/>ry, &amp; that Marriage was a ſigne or figure of joyning together Chriſt and his Church, <hi>Epheſ.</hi> 5. 32. ſo <hi>Song 6. 8. Rev.</hi> 21. 9. ſo ſtrange mar<g ref="char:EOLhyphen"/>riage figure, the joyning the Pope and his Church, we are to waight for wiſdome at wiſdomes gate, and not in an Idolls temple, nor in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Idolatrous aſſembly, nor for Chriſts voice at the mouth of a harlot, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is objected Chriſt hath been found there. <hi>Anſw.</hi> true, to call his a<g ref="char:EOLhyphen"/>way, <hi>Ier. 51. 6. 45. Rev. 18. 4. 2 Cor.</hi> 6. 17. 18. after which call <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warning, let ſuch take heede how they ſtay and meddle there, and conſider, <hi>Rev.</hi> 14 6. to 11. and be ſure ye attend where Chriſt had promiſed his preſence, as <hi>Mat. 18. 20. Eſa. 33. 21. Pſal.</hi> 87. 7. and if it ſeeme ſmall, ſo as ye finde not that plenty ye deſire, ſee that ye d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpiſe no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the day of ſmall things, <hi>Zack.</hi> 4 11. conſider <hi>Pſal.</hi> 132. 15.</p>
+            <p>18. Becauſe it is a diſhonour to Jeſus Chriſt for his people to go to <hi>Antichriſt,</hi> Prieſthood to be fed; it is a diſhonour for the Kings Sonne to go to the houſe of his greateſt enemy for bread: if Chriſt pro<g ref="char:EOLhyphen"/>vides not for his Family, he is worſer then an infidell, in my Fathers houſe is bread enough, Chriſt hath provided choyce dainties, and e<g ref="char:EOLhyphen"/>nough; Chriſt is in the midſt of his Church, his eye is upon his to know their wants, and ſupply them, <hi>Mat.</hi> 18. 20. Chriſt will worke a miracle before they ſhall want; <hi>Abraham</hi> would not receive ſo much as a ſhooe latchet from the Heathen, leaſt they ſhould ſay they made him rich, ſee 1 <hi>King.</hi> 17. 12. to 18. and 19 4. 6. 8. and ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from Chriſts enemy? <hi>Abrahams</hi> caſe is ours: wherefore we abho<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be provided for by them; Gods love, care, and bounty, call us from you to ſtand by and waite to ſee a full end of <hi>Antichriſt,</hi> and his Prieſthood, &amp;c. and ſo to ſing halalugia, and for you who are fed by them, ſo as you cannot live without them, tell me how ſhall you rejoyce in her ruin; what ſhall you get by her fall, whoſe ruin is your loſſe, you cannot ſpare her now, what will ye do here after? her deſtruction haſteneth, ſtand ſtill a little, and ye ſhall ſee the Lords Salvation of Sion, and the utter downfall of <hi>Babilon, Rev.</hi> 18. 19. 20. 21. and 19. 1. 2. 3.</p>
+            <p>
+               <pb n="17" facs="tcp:35570:13"/>
+19. Becauſe the Scriptures declare to follow them, it is an un<g ref="char:EOLhyphen"/>reaſonable practice to heare ſuch as are not the Miniſters of Chriſt, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo much is implyed in <hi>Song. 1. 7. 8. tell me o thou whom my ſoule <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, where thou ſeeſt, where thou makeſt thy flocks to reſt at noone; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> why ſhould I be as one that turneth aſide by the flocks of thy Compa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>:</hi> there can no reaſon be given for ſuch a practice.</p>
+            <p>Therefore Chriſt anſwers it; <hi>if thou know not o thou fayrest a<g ref="char:EOLhyphen"/>mong women, go thy way forth by the footſteps of the flock and feede <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kids beſides the Sheaperds tents: Song.</hi> 1. 8. follow the foot-ſteps of the Saints gone before you recorded in Scripture: <hi>what haſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to do in the way of Egipt,</hi> nothing at all, except onely <hi>to drinke <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> water of Sihor, 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi> 18. which God condemns.</p>
+            <p>20. Becauſe thoſe which I may heare I may maintaine as 1 <hi>Tim.</hi> 5. 18. but Satans Prieſthood nor any other falſe miniſtery I may not maintaine for that were to uphold them in their evell way: there<g ref="char:EOLhyphen"/>fore I may not hearethem.</p>
+            <p>21. That miniſtery that is not from God, we may not pray to God to inable them in the execution of it; for he that biddeth them Godſpeede, is partakers of all their evill, 2. Epiſ. <hi>Iohn</hi> 10. 11. and if we may pray to God to bleſſe the Prieſthood, why not the Prelacie the Pope and Dragon, <hi>Rev.</hi> 9. 11. for it is unreaſonable to bleſſe the branches and not the roote, and if I may pray to God for a good succeſſe of actions done by a falſe power, and Office, then I may thanke God for the meanes of that good and then I may pray for the continuance of it, and of that Church, and for any ſo to pray, were to pray againſt the fulfilling of the promiſe of the down<g ref="char:EOLhyphen"/>fall of <hi>Babylons</hi> power and Prieſthood, we pray for the fall of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and for the riſing of <hi>Sion,</hi> and to pray otherwiſe, were to build <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that God diſtroyes and to take his name in vaine, yea to make our ſelves tranſgreſſors and to mock God.</p>
+            <p>22. Becauſe we cannot approve of ſuch a preaching as tends to the diſhonour of Chriſt in ſlighting the reſt of the Ordinances of Chriſt, for ſo doth their preaching not onely. 1. honour the cage, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. hinder the Saints going to <hi>Sion,</hi> by which they hinder their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>joying the reſt of the Ordinances of Chriſt. 3. Chriſt is deprived of his Kingly glory in the want of the preſence of his Saints. 4. their preaching hinders them, and blinds them that they cannot ſee the myſtery of iniquity, its their preaching that is the ſtrong cord that
+<pb n="18" facs="tcp:35570:14"/>
+bindes Gods people to <hi>Babilon,</hi> the Cup of gold which ſhe holds forth to intice the people to admire her and to follow her, is the word of God which ſhe hath ſtolen, and I may not be partaker with her in her theft, <hi>Pſal.</hi> 50. 17. 18.</p>
+            <p>It were better for them and others that they taught no <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at all the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould they not by it keepe ſo many in errour as they do, the harlots ſmooth mouth and hony drops, hath be witched many, and drawn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them aſide from the way of God, as <hi>Prov. 5. 3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 7. 21. Neh.</hi> 3. 4. with <hi>Gal.</hi> 3. 1.</p>
+            <p>God of old tryed his peoples love to him, by ſuffering falſe Pro<g ref="char:EOLhyphen"/>phets to ariſe, and give them a ſigne, and although it came to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet when he went about to draw the people from the worſhip<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God, they were not to heare that prophet but reject him, <hi>Deut.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. 1. to 7. with <hi>Deut.</hi> 18. 20, 21, 22. God is ſtill the ſame, and layeth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like charge upon his people as he did then, as <hi>Gal.</hi> 1. 8. 9.</p>
+            <p>The Lord may ſay to them, ye are they that forſake the Lord, that forget my holy mountaine that prepare a Table for the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that furniſh the drinke-offering for that number, <hi>Eſa.</hi> 65. 11. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are guilty of uſurpation in taking upon them to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the people, and whereas the leſſe is bleſſed of the greater, <hi>Heb.</hi> 7. 7. viz. greater in power and Authority, whereas they have neither the Office of Chriſt nor the power of Chriſt.</p>
+            <p>23. Becauſe the way they walke, is not the way that God <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appointed his people to walke in, they may not go to them for <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fit, for great guifts and parts are not to be countenanced out of Gods way, ſome thinke they are ſafe, ſo long as they ſay they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them as guifted men, but ſeeing they ſtand there as Miniſters, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> intention alters not their ſtanding, nor leſſens their ſinne, if <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have guifts, let them bring them to the Church of Chriſt for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glory, and his peoples comfort, ſee <hi>Deut. 1. 12. Epheſ.</hi> 4. 16. as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mica</hi> 4. 1. 2. ſo now the Law is to go forth of Sion, ſee <hi>Epheſ.</hi> 3. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the greater their gifts are the greater is their ſin, and your <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in that they lay them not out for Chriſts advantage, ſee <hi>Luke</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2.</p>
+            <p>Are their guifts from God that are layd out ſo contrary to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the good of his people? ſee <hi>Epheſ. 4. 11. 1 Cor. 12. 12. 13, 1 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14. Mat.</hi> 28. 18, 19, 20. the arts of men are oft taken for the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God.</p>
+            <p>24. The Church State make all the publike actions <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:35570:14"/>
+done by vertue of it to be formally good or evill according to the Law and falſe power, and ſo accordingly become lawfull or unlawfull to pertake of them, <hi>Mat.</hi> 23. 17. 19. the true Church hath the true power, true worſhip, true Offi<g ref="char:EOLhyphen"/>cers, true adminiſtration, the power being true, all actions done which naturally flow from it, are good and lawfull, and ſo unlawfull, if done i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and by a falſe Church and pow<g ref="char:EOLhyphen"/>er, for power puts into Offices, office into adminiſtration, which is the execution of it, ſo that if the Office be unlaw<g ref="char:EOLhyphen"/>full, the adminiſtration of it is unlawfull alſo, becauſe its a part, yea the chiefeſt part of the Office; for the end is ever greater then the meanes, becauſe the meanes is for the end, the Office is for the adminiſtration, which is the power of it, ſo to partake of the adminiſtration, is to pertake of the power of it, <hi>Rev.</hi> 9. 11. it followes that an evell power and Office cannot have a lawfull adminiſtration, and thus it is in divine and civill States, when the State is not allowed, the power of that ſtate is not allowed, nor any adminiſtration done by it, and though the action for the matter of it be good, and he good that doth it, yet it is not allowed, apply it: ſo then.</p>
+            <p>So farre as I allow of any adminiſtration done by a falſe Office and power, ſo farre I vilifie the true in that (I ſeeme at leſt to) equall them, and ſo it is to be interpreted, when the outward action is the ſame with his, that approves of the Office and power of the State; for preſents and ſilence is to be interpreted aprobation, what men are inwardly, it be<g ref="char:EOLhyphen"/>longs not to us to determine.</p>
+            <p>Alſo that place and calling that hath tyed unto it the breach of any Command of God, ſo as the calling cannot be ſeparated from the ſin, that place and calling is unlawfull; but the Miniſtery of <hi>England</hi> hath tyed to it the ſprinkling of Infants, and giving holy things to dogs, &amp;c. <hi>ergo.</hi>
+            </p>
+            <p>And ſeeing teaching and hearing are relations that go to<g ref="char:EOLhyphen"/>gether: therefore where he may not lawfully preach, I may not heare.</p>
+            <div type="part">
+               <pb n="20" facs="tcp:35570:15"/>
+               <head>Wherein it appeares that hearing the Popes Prieſthood, is a breach of the ten Commandements.</head>
+               <p>The firſt Command Requires.</p>
+               <p n="1">1. That we hate, that which he hates, and to teſtifie it <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we love him, 2 <hi>Kings</hi> 10. 15. <hi>Iude</hi> 23. God hates all the monuments of Idolatry, and all belongs to it, the Popes Prieſthood is a principall part of their worſhip, ſo that I am to fly from him, and all that is <hi>Antichriſt,</hi> as from the Divill, and therefore not to go to heare them, ſee <hi>Eſa.</hi> 30. 22.</p>
+               <p>And as nothing but what God hath ſanctified may not come neere God, witneſſe <hi>Nodab</hi> and <hi>Abihu,</hi> ſtrange <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Lev.</hi> 10. nor I here it in uſe Religions, and if we may ad<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> of the Popes Prieſthood, and conſecreated Temples, (with<g ref="char:EOLhyphen"/>out which the Papiſts thinke not the worſhip holy) why may we not as well admit of all the Popiſh trumpery upon the ſame ground, yea the Divill himſelfe: Let not men ſay they hate Popery, ſo long as they retaine in uſe religious, the principle bags of it, but he that truly hates <hi>Antichriſts,</hi> cannot by no meanes digeſt, or dreame of any thing that is his, 1 <hi>Kings</hi> 18. 40.</p>
+               <p n="2">2. The firſt Command is broken when we tempt God; and this is done when I doubt of Gods bleſſing in his own meanes and way. 2. when I expect not at all from God in his meanes and way, 3. <hi>uſe,</hi> meanes that he hath not ap<g ref="char:EOLhyphen"/>pointed and expect his bleſſing where he hath not promiſed, if therefore this Command is broken when I heare an unlaw<g ref="char:EOLhyphen"/>full Miniſter, or ſend an Idoll to God.</p>
+               <p n="3">3. This Command is broken when I deny that which God affirmeth to be true, <hi>viz.</hi> that his word is perfit, and this I do, when I do an action, his word ivinues not, for if there be any action that is good, not commanded in the word: the word commandes not all good, and ſo is not
+<pb n="21" facs="tcp:35570:15"/>
+perfit which is to put the lye upon God, ſo when the word ſaith, ſuch a practice is not lawfull, and my practice ſay it is, this is to put the lye upon God, and this is Idolatry to do ſo, if it be not blaſphemy.</p>
+               <p n="4">4. This Command forbids the doing of any thing which ſeemes to leſſen his love, care and bounty to his; for this is not for his glory, and this is done when we go to Chriſts enemies to be fed, as if God did not take care for the ſoules and bodies of his; therefore davids prayer (ſhall be mine) let me not eat of their dainties, <hi>Pſal.</hi> 141. 4. ſurely then he would not eat of their Sacrifice.</p>
+               <p n="5">5. The firſt Command, Commandes me to be on Gods ſide, againſt the enemies, and not in the leaſt to encourage them againſt him, this Command is broken when I heare a falſe Miniſter ſide with him, and incourage him and others in their ſin againſt Chriſt.</p>
+               <p n="6">This 1. Command requires us not to receive one, or ſet up, &amp;c. any thing that doth oppoſe him as we are loy<g ref="char:EOLhyphen"/>all to Chriſt, no nor ſeeme to do it, and as God likes nothing but what himſelfe appoints, no more ſhould we, but if we receive <hi>Antichriſts</hi> Prieſthood, we do homage to a traytor, if we receive Satans Miniſters, we receive him, <hi>Mat.</hi> 10. 14. 40. 41. 42. ſee <hi>Iohn</hi> 105. with <hi>Mat.</hi> 17. 25. a ſtranger for to honour a falſe Miniſter, is to worſhip the inſtitutes, what difference between the Popes Prieſthood and the Divills, and is it not horrible Idolatry to worſhip the Divill.</p>
+               <p n="7">7. This Command requires me to follow God fully, and zealouſly, and avoide all meanes that may hinder me herein; for he is a zealous God, <hi>Exod.</hi> 20. 5. but to go to the Popes Prieſthood, is to halt downe right, 1 <hi>Revel.</hi> 18. 21. <hi>Antichriſt</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not cleanſed; we cannot follow Chriſt, and <hi>Beliall,</hi> how is it that thou being a Chriſtian, keepes company with <hi>Anti<g ref="char:EOLhyphen"/>chriſt,</hi> and frequents his houſe, I am perſwaded that the
+<pb n="22" facs="tcp:35570:16"/>
+hearing of a falſe Miniſter is the greateſt barre and ſtum<g ref="char:EOLhyphen"/>bling block that lyeth in the way of Gods people, and hin<g ref="char:EOLhyphen"/>dreth them moſt from following God fully.</p>
+               <p>Oh who is like our God, and what Miniſtery is like his: therefore his Miniſtery I receive and imbrace, but if other<g ref="char:EOLhyphen"/>wiſe, vehemently I abhorr, refuſe, and ſcorne it.</p>
+               <p>The 2. Command requires that God be worſhiped pure<g ref="char:EOLhyphen"/>ly according to his word; therefore that worſhip that is not according to his word, either for matter or manner is un<g ref="char:EOLhyphen"/>lawfull, but to worſhip God with, or before an Idoll in ſtate Religions breakes this Commandement, but a falſe Miniſter is an Idoll and a meanes not appointed by God: therefore to heare a falſe Miniſter in the execution of his Miniſtery, is groſſe ſuperſtition and Idolatry, yea a coun<g ref="char:EOLhyphen"/>tenanſing of falſe worſhip, and a breach of this 2. Comman<g ref="char:EOLhyphen"/>dement; yea this is to ſacrifice to Divells, and to have fel<g ref="char:EOLhyphen"/>lowſhip with Divells, ſee <hi>Exod. 20. 5. Pſal. 106. 37. 1 Cor.</hi> 10. 20.</p>
+               <p>The 2. Command condemns the uſe of any Idoll: an I<g ref="char:EOLhyphen"/>doll is any thing or ſimilitude that is ſet a part for a re<g ref="char:EOLhyphen"/>ligious uſe, and not appointed by God, 1 <hi>Iohn</hi> 5. 21. 2 <hi>Cor.</hi> 6. 16. therefore we commit Idolatry in affording our pre<g ref="char:EOLhyphen"/>ſence where an Idoll is in ſtate Religions we worſhip an Idoll when we honour it, we honour it when we uſe it, in uſe Religions we grace the temple and Prieſt, when by our preſence we cauſe them to be the better thought of: therefore to caſt the leaſt glance of honour, credit, or coun<g ref="char:EOLhyphen"/>tenance, to an Idoll we worſhip him; yea to looke towards an Idoll is to caſt a glance of honour to it, ſee <hi>Rev. 13. Da<g ref="char:EOLhyphen"/>niel</hi> forboore the Kings meate, it being offered to an Idoll which was otherwiſe cleane, leaſt he ſhould ſerve to ho<g ref="char:EOLhyphen"/>nour the Idoll, for if he might have eat it, and yet not have honoured the Idoll, he did ill to refuſe it as he did, <hi>Deut.</hi> 1. 8.</p>
+               <p>
+                  <pb n="23" facs="tcp:35570:16"/>
+The 3. Command condemns the taking Gods name in vaine; Gods worſhip is his name now to profeſſe to wor<g ref="char:EOLhyphen"/>ſhip God when I do not, I cauſe his name to be evill ſpo<g ref="char:EOLhyphen"/>ken of, and this is to take his name in vaine, but to heare a falſe Miniſter, is to mock God, and to take his name in vaine; ſo he that biddeth him Go<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eede, is partaker of all his evill deedes, 2 <hi>Epiſ. Iohn</hi> 11. 11.</p>
+               <p>4. Command requires us to ſanctifie the Lords day, <hi>Heb. 4. 4. 1 Cor. 16. 1. Rev.</hi> 1.</p>
+               <p>But hearing a falſe Miniſter in a falſe ſtate, hinders per<g ref="char:EOLhyphen"/>ſons from ſanctifying the Lords day, and therefore is a breach of this Commandement.</p>
+               <p>2. This 4. Command requires us to ceaſe from our own workes, viz. ſin, but he that heares ſuch preach of whom we ſpeake ſins, and ſo hath not ceaſed from his own works and ſo is guilty of the breach of this Command, <hi>Heb.</hi> 4. 4. 10.</p>
+               <p>5. Command requires that we honour our Superiours, as 1. himſelfe, 2. thoſe he hath ſet up.</p>
+               <p>But hearing them in thoſe places is to diſobay Gods Command, <hi>Rev.</hi> 18. 4. &amp;c. which is to diſhonour him.</p>
+               <p>2. by hearing them I honour them, and ſo farre I ho<g ref="char:EOLhyphen"/>nour them, my practice vilifieth, and deſpiſe and diſgrace ſuch as God would have honoured in levying them to fol<g ref="char:EOLhyphen"/>low and heare them; alſo in hearing <hi>Antichriſt,</hi> I diſhonour Chriſt, and thoſe whom he ſends to preach, and in hearing the Popes Prieſthood, I honour thoſe that ſent them; for greater is he that ſends, then he that is ſent.</p>
+               <p>6. Command condemns murder naturall and ſpirituall.</p>
+               <p>But to heare <hi>Antichriſts</hi> Miniſters is to teach and cauſe o<g ref="char:EOLhyphen"/>thers to ſin and to incourage and harden them in their ſin, which is to deſtroy their ſoules, 1 <hi>Cor.</hi> 8. 10. 11. Alſo this
+<pb n="24" facs="tcp:35570:17"/>
+practice doth murder the Saints, Communion and love each to other, &amp;c.</p>
+               <p>The 7. Command condemns all uncleaneſſe both natu<g ref="char:EOLhyphen"/>rall and ſpirituall with all meanes and occaſions that tends to defile us, and that we uſe all meanes of chaſtity, ſpirituall chaſtity, <hi>Solomon</hi> teacheth in<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> parable, <hi>Prov.</hi> 5 15. 18. with <hi>Song. 4 12. 15. Rev. 22. Ezek.</hi> 47 6. 10. drinke water out of thyne own Seſterne, <hi>viz,</hi> go not to heare in falſe Churches, to hear <hi>Antichriſts</hi> Miniſters is to ſin, &amp; ſo a breach of ſpirituall chaſtity, and that which defiles and polutes my Soule and others in tempting them by my practice to def<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e themſelves alſo, as 1 <hi>Cor.</hi> 8. 10. falſe worſhip is whordom becauſe faith towards God is broken, <hi>Lev.</hi> 17. 7. the falſe Church is a harlot, and to have Communion with her in any thing that is hers, is ſpirituall uncleanneſſe: therefore we are commanded not to come neere the doore of her houſe, <hi>Prov.</hi> 5. 8.</p>
+               <p>Alſo this Command forbids touching of any uncleane thing, conſider well theſe Scriptures, <hi>Eſa. 30. 22. 2 Cor. 6. 17. 1 Kings 22. 43. Deut.</hi> 12. 1, 2, 3. &amp;c. and 7. 5. 2 <hi>Kings</hi> 10. 26, 27, 28. and if the braſen Serpent was deſtroyed be<g ref="char:EOLhyphen"/>cauſe abuſed, 2 <hi>Kings</hi> 18 4. 3. what can we ſay for an Idolls temple, dedicated to a Saint and a monument of Idolatry, a principle Inſtrument of Idolatry abuſed to Idolatry, and Idoll, in uſe religious and commonly judged more holy, then any other places; yet not appointed by the Lord, but an inticement to Idolatry, its called a temple, and to have temples now of ſtone, is to deny Chriſt to be come, the Temples of old being a Tipe of Chriſt, which being come, was to be done away; <hi>I</hi> deſire to be ſatisfied of them that thinke otherwiſe in theſe queſtions.</p>
+               <p>1. Whether thoſe under the Goſpel have any more li<g ref="char:EOLhyphen"/>berty to uſe an Idoll in uſe Religions then the Jewes had. 2. whether God doth not hate all Idolatry, and all the Inſtru<g ref="char:EOLhyphen"/>ments of it, now as much as he did in the Jewes time be<g ref="char:EOLhyphen"/>fore Chriſt. 3. whether we are not to hate and ſhew as much diſlike againſt all the monuments of Idolatry as the
+<pb n="25" facs="tcp:35570:17"/>
+Jewes were to do. 4. whether our natures now be not as prove to Idolatry, as the Jewes were. 5. whether we are not to immitate thoſe, good Jewes in zeale who hated and abhorred them moſt.</p>
+               <p>The Temples (and Prieſts) are Jewells of the harlot, and ſo long as we retaine them in ſuch a uſe, we have not tru<g ref="char:EOLhyphen"/>ly repented of former Idolatry.</p>
+               <p>It is a Troope of <hi>Antichriſts</hi> Conqueſt, and while it ſtandeth Chriſt is diſhonoured, and put to ſhame, it is a ſigne of their complying with Gods enemies, and while we uſe them in ſuch a uſe at leaſt we for beare to do as we are commanded, <hi>Deut.</hi> 5. 6.</p>
+               <p>Its a ſtumbling block to Popiſh mindes, and while it continueth, there is ſome regard ſeemes to be had of their ſervice, is it a ſmall thing thinke ye to retaine their conſe<g ref="char:EOLhyphen"/>created Prieſts and temples, &amp;c. and I in going to them, to heare the Prieſts tempt my ſelfe, and tempt the Lord to give me up to Satan, and Antichriſt, to be blinded and har<g ref="char:EOLhyphen"/>dened. <hi>Rom.</hi> 1.</p>
+               <p>The 8. Command condemns all thefe to heare Antichriſts Prieſts is theft in a high degree, becauſe by it I rob God of his glory, and give it to Antichriſt in worſhiping him.</p>
+               <p>2. To partake with all theſe is theft, and they are theeves if they have guifts and graces in not carrying them to the Church, for all is theirs, and if it be ſacriledge to ſteale a M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-booke or a Sirples which are deteſtable; what ſacra<g ref="char:EOLhyphen"/>ledge call you this, to rob the Church of Chriſt of her <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oode, and to adorne Antichriſt with it, alſo my hearing them robs the truth of its due, and robs me of peace and comfort, and part of my Crowne of ſufferings, and bring a woe upon me, <hi>Eſa.</hi> 39. 1. yea Plagues, <hi>Rev.</hi> 14 9. 10. 11. and curſes <hi>Joſun</hi> 6. 26. its theft in that it ſteales from our brethren the comfort they might injoy in us, and fills them with griefe, becauſe of our ſin.</p>
+               <p>The 9. Command forbids all kinde of bearing falſe wit<g ref="char:EOLhyphen"/>neſſe, but to heare them is to go to them for foode, I by my practice ſay there is not meate enough in my Fathers
+<pb n="26" facs="tcp:35570:18"/>
+houſe this is to beare falſe witneſſe againſt God, and to lye againſt the truth for my practice in hearing them ſay they may be heard, which is to lye and beare falſe witneſſe a<g ref="char:EOLhyphen"/>gainſt God.</p>
+               <p>The 10. Command forbids covetuouſneſſe which is for a man not to be contented with Gods allowance, <hi>Heb.</hi> 13. 5.</p>
+               <p>Now if we be contented with what God hath given us in his houſe, &amp;c. why go we to the houſe of a ſtranger <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Antichriſt,</hi> ſurely our going to heare them plainly declare our not being contented without them which is covet<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Faults eſcaped in the Printing.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Page</cell>
+                     <cell>line</cell>
+                     <cell>word</cell>
+                     <cell>Reade</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>21.</cell>
+                     <cell>proofe</cell>
+                     <cell>proofes</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>34.</cell>
+                     <cell>oſis</cell>
+                     <cell>Office</cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>2.</cell>
+                     <cell>Jodlls</cell>
+                     <cell>Jdoles</cell>
+                  </row>
+                  <row>
+                     <cell>21.</cell>
+                     <cell>24.</cell>
+                     <cell>inſtitutes</cell>
+                     <cell>inſtituter</cell>
+                  </row>
+                  <row>
+                     <cell>21.</cell>
+                     <cell>29.</cell>
+                     <cell>zealous</cell>
+                     <cell>Jealous</cell>
+                  </row>
+                  <row>
+                     <cell>25.</cell>
+                     <cell>23.</cell>
+                     <cell>all</cell>
+                     <cell>a</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>4.</cell>
+                     <cell>mony</cell>
+                     <cell>mercy</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>36.</cell>
+                     <cell>ſome</cell>
+                     <cell>ſcorne</cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell>13.</cell>
+                     <cell>ſerve</cell>
+                     <cell>ſome</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>16.</cell>
+                     <cell>juſtifieth</cell>
+                     <cell>inſtituteth</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>23.</cell>
+                     <cell>change</cell>
+                     <cell>charge</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>26.</cell>
+                     <cell>change</cell>
+                     <cell>charge</cell>
+                  </row>
+                  <row>
+                     <cell>Epiſt.</cell>
+                     <cell> </cell>
+                     <cell>delivered</cell>
+                     <cell>derived.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The other faults, correct or paſſe by in love.</hi>
+            </p>
+            <pb facs="tcp:35570:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
